@@ -1,0 +1,1214 @@
+[
+    {
+      "id": 1,
+      "name": "Пуховик зимний",
+      "description": "Теплый пуховик с высоким воротником для зимних прогулок.",
+      "price": 8999,
+      "gender": "Женский",
+      "material": "Пух, нейлон",
+      "category": "Куртки",
+      "img" : "https://img.freepik.com/premium-photo/young-woman-winter-clothes-white-background-photo-concept-advertising-down-jacket_211786-2669.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Марина",
+          "rating": 5,
+          "comment": "Очень теплая и стильная куртка!",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Елена",
+          "rating": 4,
+          "comment": "Немного тяжеловата, но отличная в морозы.",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Рубашка с длинным рукавом",
+      "description": "Классическая рубашка для деловых встреч.",
+      "price": 1599,
+      "gender": "Мужской",
+      "material": "Хлопок",
+      "category": "Верх",
+      "img" : "https://img.freepik.com/free-psd/mens-long-sleeve-orange-navy-plaid-flannel-shirt-casual-button-down-top-apparel-clothing-fashion-menswear-fall-winter_632498-27772.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Иван",
+          "rating": 5,
+          "comment": "Отличная рубашка, идеально подходит для офиса.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Петр",
+          "rating": 4,
+          "comment": "Хороший материал, но размер не подошел.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Брюки чинос",
+      "description": "Удобные брюки для повседневной носки.",
+      "price": 1999,
+      "gender": "Мужской",
+      "material": "Хлопок, эластан",
+      "category": "Низ",
+      "img" : "https://img.freepik.com/free-photo/businessman-wearing-black-pants-with-white-shirt_53876-102237.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Дмитрий",
+          "rating": 5,
+          "comment": "Отличные брюки, сидят как влитые.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Артур",
+          "rating": 4,
+          "comment": "Брюки хороши, но немного растягиваются после носки.",
+          "date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Топ без рукавов",
+      "description": "Легкий летний топ для жаркой погоды.",
+      "price": 899,
+      "gender": "Женский",
+      "material": "Хлопок",
+      "category": "Верх",
+      "img" : "https://img.freepik.com/free-photo/attractive-young-lady-holding-hands-waist-while-looking-aside-blouse-looking-hopeful-front-view_176474-90832.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Оксана",
+          "rating": 5,
+          "comment": "Очень удобный и легкий топ для лета.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Ксения",
+          "rating": 4,
+          "comment": "Топ классный, но немного маломерит.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Туфли на каблуке",
+      "description": "Элегантные туфли для официальных мероприятий.",
+      "price": 2499,
+      "gender": "Женский",
+      "material": "Кожа",
+      "category": "Обувь",
+       "trend" : true,
+      "img" : "https://img.freepik.com/premium-photo/beautiful-woman-shoes-with-flowers-isolated-white_392895-178420.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Ирина",
+          "rating": 5,
+          "comment": "Очень красивые и удобные туфли.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Елена",
+          "rating": 4,
+          "comment": "Туфли красивые, но каблук слишком высокий для меня.",
+          "date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Платье вечернее",
+      "description": "Шикарное платье для торжественных событий.",
+      "price": 4999,
+      "gender": "Женский",
+      "material": "Шифон",
+      "category": "Платья",
+      "img" : "https://img.freepik.com/free-psd/kids-dress-isolated-transparent-background_191095-19819.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Светлана",
+          "rating": 5,
+          "comment": "Невероятно красивое платье, идеально подошло для свадьбы.",
+          "date": "2025-01-04"
+        },
+        {
+          "username": "Дарина",
+          "rating": 4,
+          "comment": "Платье шикарное, но требует профессиональной стирки.",
+          "date": "2025-01-07"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Футболка с принтом",
+      "description": "Модная футболка с ярким принтом.",
+      "price": 799,
+      "gender": "Мужской",
+      "material": "Хлопок",
+      "category": "Верх",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-psd/men-t-shirt-mockup-front-view_1332-60600.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Максим",
+          "rating": 5,
+          "comment": "Отличная футболка, яркий принт.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Роман",
+          "rating": 4,
+          "comment": "Футболка хорошая, но по размеру немного велика.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Джинсы Slim",
+      "description": "Узкие джинсы для стильных образов.",
+      "price": 1999,
+      "gender": "Мужской",
+      "material": "Деним",
+      "category": "Низ",
+      "img": "https://img.freepik.com/free-photo/details-blue-jeans-fabric_150588-19.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Денис",
+          "rating": 5,
+          "comment": "Очень удобные джинсы, хорошо сидят.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Александр",
+          "rating": 4,
+          "comment": "Отличные джинсы, но немного растягиваются.",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Куртка парка",
+      "description": "Теплая куртка с капюшоном для зимы.",
+      "price": 4999,
+      "gender": "Женский",
+      "material": "Полиэстер, синтепон",
+      "category": "Куртки",
+      "img": "https://img.freepik.com/free-psd/orange-kids-puffer-jacket-winter-coat-warm-hooded-outerwear-kids-fashion_632498-27719.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Екатерина",
+          "rating": 5,
+          "comment": "Куртка супер! Очень теплая и стильная.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Анна",
+          "rating": 4,
+          "comment": "Куртка хорошая, но мне немного велика.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Спортивные штаны",
+      "description": "Комфортные штаны для активных тренировок.",
+      "price": 1499,
+      "gender": "Мужской",
+      "material": "Полиэстер",
+      "category": "Низ",
+      "img": "https://img.freepik.com/free-photo/portrait-adult-male-exercising-outdoors_23-2148531083.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Артем",
+          "rating": 5,
+          "comment": "Отличные спортивные штаны, удобные для тренировки.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Максим",
+          "rating": 4,
+          "comment": "Штаны удобные, но немного длинноваты для меня.",
+          "date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Кеды белые",
+      "description": "Классические белые кеды для повседневной носки.",
+      "price": 1999,
+      "gender": "Мужской",
+      "material": "Кожа, резина",
+      "category": "Обувь",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-photo/new-pair-white-sneakers-isolated-white_93675-133039.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Игорь",
+          "rating": 5,
+          "comment": "Очень удобные и стильные кеды.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Алексей",
+          "rating": 4,
+          "comment": "Хорошие кеды, но они немного маломерят.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Платье макси",
+      "description": "Шикарное вечернее платье до пола.",
+      "price": 5999,
+      "gender": "Женский",
+      "material": "Шелк",
+      "category": "Платья",
+      "img": "https://img.freepik.com/free-photo/curly-girl-beautiful-dress_144627-10117.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Татьяна",
+          "rating": 5,
+          "comment": "Платье просто шикарное, подошло идеально для вечеринки.",
+          "date": "2025-01-05"
+        },
+        {
+          "username": "Марина",
+          "rating": 4,
+          "comment": "Красивое платье, но немного широкое по талии.",
+          "date": "2025-01-08"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Шапка зимняя",
+      "description": "Теплая шапка для зимних холодов.",
+      "price": 899,
+      "gender": "Женский",
+      "material": "Шерсть",
+      "category": "Аксессуары",
+      "img": "https://img.freepik.com/free-psd/stylish-dark-grey-knitted-beanie-hat-with-fluffy-pompom-winter-warm-accessory-fashion-headwear_632498-32861.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Ирина",
+          "rating": 5,
+          "comment": "Шапка очень теплая и комфортная.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Светлана",
+          "rating": 4,
+          "comment": "Хорошая шапка, но немного велика.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Пальто зимнее",
+      "description": "Стильное зимнее пальто для холодных дней.",
+      "price": 7999,
+      "gender": "Женский",
+      "material": "Шерсть",
+      "category": "Куртки",
+      "img": "https://img.freepik.com/free-photo/young-attractive-woman-beige-coat-posing-street_1303-27425.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Алена",
+          "rating": 5,
+          "comment": "Очень теплое и стильное пальто.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Маргарита",
+          "rating": 4,
+          "comment": "Пальто шикарное, но тяжеловато для зимних активностей.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Шорты джинсовые",
+      "description": "Джинсовые шорты для лета, легкие и удобные.",
+      "price": 1299,
+      "gender": "Мужской",
+      "material": "Деним",
+      "category": "Низ",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-photo/casual-men-short-pants_1203-8186.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Егор",
+          "rating": 5,
+          "comment": "Отличные шорты для летних прогулок.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Дмитрий",
+          "rating": 4,
+          "comment": "Шорты удобные, но немного короткие.",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Тренчкот",
+      "description": "Стильный тренч для осенних прогулок.",
+      "price": 4499,
+      "gender": "Женский",
+      "material": "Ткань",
+      "category": "Куртки",
+      "img": "https://img.freepik.com/free-photo/beautiful-pregnancy-young-family-pregnant-woman-man-happy-couple-wife-husband_1328-5086.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Екатерина",
+          "rating": 5,
+          "comment": "Очень элегантный и удобный тренч.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "София",
+          "rating": 4,
+          "comment": "Тренч хороший, но немного туговат в плечах.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Платье в клетку",
+      "description": "Легкое летнее платье в клетку, идеально для отдыха.",
+      "price": 1799,
+      "gender": "Женский",
+      "material": "Хлопок",
+      "category": "Платья",
+      "img": "https://img.freepik.com/free-photo/attractive-slim-woman-dress_23-2148054911.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Анна",
+          "rating": 5,
+          "comment": "Очень удобное платье, комфортное в жару.",
+          "date": "2025-01-05"
+        },
+        {
+          "username": "Маргарита",
+          "rating": 4,
+          "comment": "Платье хорошее, но немного велика.",
+          "date": "2025-01-07"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Толстовка с капюшоном",
+      "description": "Уютная толстовка с капюшоном для холодных дней.",
+      "price": 1799,
+      "gender": "Мужской",
+      "material": "Хлопок, полиэстер",
+      "category": "Верх",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-psd/red-white-hoodie-mockup-stylish-comfortable-apparel_191095-91217.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Алексей",
+          "rating": 5,
+          "comment": "Очень удобная и теплая толстовка.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Владимир",
+          "rating": 4,
+          "comment": "Толстовка хорошая, но немного короткая для меня.",
+          "date": "2025-01-02"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Кроссовки спортивные",
+      "description": "Удобные спортивные кроссовки для активных тренировок.",
+      "price": 2999,
+      "gender": "Мужской",
+      "material": "Ткань, резина",
+      "category": "Обувь",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-photo/new-black-sneakers-isolated-white-background_93675-135051.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Олег",
+          "rating": 5,
+          "comment": "Отличные кроссовки для бега, очень удобные.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Юрий",
+          "rating": 4,
+          "comment": "Кроссовки хорошие, но немного жестковаты.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Пиджак мужской",
+      "description": "Стильный мужской пиджак для официальных встреч.",
+      "price": 3999,
+      "gender": "Мужской",
+      "material": "Шерсть",
+      "category": "Верх",
+      "img": "https://img.freepik.com/free-psd/stylish-dark-blue-blazer-transparent-background_84443-28888.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Артем",
+          "rating": 5,
+          "comment": "Пиджак идеально сидит, отлично подходит для работы.",
+          "date": "2025-01-04"
+        },
+        {
+          "username": "Константин",
+          "rating": 4,
+          "comment": "Хороший пиджак, но размер немного велик.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Юбка кожаная",
+      "description": "Стильная кожаная юбка для создания элегантных образов.",
+      "price": 2499,
+      "gender": "Женский",
+      "material": "Кожа",
+      "category": "Низ",
+      "trend" : true,
+      "img": "https://img.freepik.com/free-photo/fashionable-brunette-businesswoman-leather-pencil-skirt_158595-992.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Людмила",
+          "rating": 5,
+          "comment": "Очень стильная и удобная юбка.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Виктория",
+          "rating": 4,
+          "comment": "Юбка шикарная, но немного жестковатая по материалу.",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Куртка кожаная",
+      "description": "Кожаная куртка для осени и весны.",
+      "price": 5999,
+      "gender": "Мужской",
+      "material": "Кожа",
+      "category": "Куртки",
+      "img": "https://img.freepik.com/free-photo/elegant-young-handsome-man-classic-black-costume-studio-fashion-portrait_1328-2219.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Роман",
+          "rating": 5,
+          "comment": "Отличная кожаная куртка, качественная и стильная.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Игорь",
+          "rating": 4,
+          "comment": "Куртка хорошая, но немного жестковатая.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Топ с принтом",
+      "description": "Модный топ с ярким принтом для летних дней.",
+      "price": 899,
+      "gender": "Женский",
+      "material": "Хлопок",
+      "category": "Верх",
+      "trend" : true,
+      "img": "https://img.freepik.com/premium-photo/pink-black-dress-with-pink-bow_236836-27234.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Татьяна",
+          "rating": 5,
+          "comment": "Отличный топ, очень легкий и красивый.",
+          "date": "2025-01-04"
+        },
+        {
+          "username": "Марина",
+          "rating": 4,
+          "comment": "Топ очень хороший, но маломерит.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Кроссовки белые",
+      "description": "Белые кроссовки для активных прогулок.",
+      "price": 2499,
+      "gender": "Женский",
+      "material": "Ткань, резина",
+      "category": "Обувь",
+      "img": "https://img.freepik.com/premium-photo/white-sneaker-colorful-background-new-unbranded-sport-shoe_77190-6922.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Ольга",
+          "rating": 5,
+          "comment": "Очень удобные и стильные кроссовки.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Анна",
+          "rating": 4,
+          "comment": "Кроссовки хорошие, но немного маломерят.",
+          "date": "2025-01-05"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Платье с разрезом",
+      "description": "Элегантное платье с разрезом для вечерних мероприятий.",
+      "price": 4999,
+      "gender": "Женский",
+      "material": "Шелк",
+      "category": "Платья",
+      "img": "https://img.freepik.com/free-photo/surprised-woman-holding-sparkle-dresses-while-making-choice-party-attire_197531-7080.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Светлана",
+          "rating": 5,
+          "comment": "Платье шикарное, выглядит дорого и элегантно.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Юлия",
+          "rating": 4,
+          "comment": "Платье красивое, но разрез слишком высокий.",
+          "date": "2025-01-07"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Брюки спортивные",
+      "description": "Удобные спортивные брюки для тренировок.",
+      "price": 1499,
+      "gender": "Мужской",
+      "material": "Полиэстер",
+      "category": "Низ",
+      "img": "https://img.freepik.com/premium-vector/male-fitness-pants_18591-39122.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Денис",
+          "rating": 5,
+          "comment": "Очень удобные и комфортные для занятий спортом.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Алексей",
+          "rating": 4,
+          "comment": "Брюки хороши, но хотелось бы больше вариантов цветов.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Топ с бахромой",
+      "description": "Модный топ с бахромой для стильных образов.",
+      "price": 1599,
+      "gender": "Женский",
+      "material": "Шелк",
+      "category": "Верх",
+      "trend" : true,
+      "img": "https://img.freepik.com/premium-photo/beautiful-elegant-evening-women-s-dress-white-background_236836-21125.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Лариса",
+          "rating": 5,
+          "comment": "Очень стильный и элегантный топ.",
+          "date": "2025-01-04"
+        },
+        {
+          "username": "Ирина",
+          "rating": 4,
+          "comment": "Топ шикарный, но немного коротковат для меня.",
+          "date": "2025-01-08"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Ботинки зимние",
+      "description": "Удобные зимние ботинки для холодной погоды.",
+      "price": 2999,
+      "gender": "Мужской",
+      "material": "Кожа, шерсть",
+      "category": "Обувь",
+      "img": "https://img.freepik.com/premium-photo/brown-men-s-hiking-shoes-snow-sunny-winter-day_101276-26.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Юрий",
+          "rating": 5,
+          "comment": "Очень удобные ботинки, отлично держат тепло.",
+          "date": "2025-01-03"
+        },
+        {
+          "username": "Петр",
+          "rating": 4,
+          "comment": "Ботинки хороши, но подошва могла бы быть чуть мягче.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Свитер с оленем",
+      "description": "Теплый свитер с рождественским принтом оленя.",
+      "price": 1799,
+      "gender": "Женский",
+      "material": "Акрил",
+      "category": "Верх",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-ugly-sweater-collection_23-2148787842.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Анна",
+          "rating": 5,
+          "comment": "Очень теплый свитер, идеален для зимы.",
+          "date": "2025-01-01"
+        },
+        {
+          "username": "Мария",
+          "rating": 4,
+          "comment": "Свитер отличный, но немного маловат по размеру.",
+          "date": "2025-01-04"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Кофта с капюшоном",
+      "description": "Теплая кофта с капюшоном для зимних прогулок.",
+      "price": 1499,
+      "gender": "Женский",
+      "material": "Хлопок, полиэстер",
+      "category": "Верх",
+      "img": "https://img.freepik.com/free-photo/portrait-young-adult-wearing-hoodie-mockup_23-2149296253.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+      "reviews": [
+        {
+          "username": "Светлана",
+          "rating": 5,
+          "comment": "Очень удобная и теплая кофта.",
+          "date": "2025-01-02"
+        },
+        {
+          "username": "Дарина",
+          "rating": 4,
+          "comment": "Кофта хорошая, но капюшон мог бы быть больше.",
+          "date": "2025-01-06"
+        }
+      ]
+    },
+    {
+        "id": 31,
+        "name": "Жилетка утепленная",
+        "description": "Утепленная жилетка для холодных осенних дней.",
+        "price": 2499,
+        "gender": "Женский",
+        "material": "Полиэстер, синтепон",
+        "category": "Куртки",
+        "img": "https://img.freepik.com/free-vector/black-sleeveless-puffer-jacket-down-vest-mockup_107791-1608.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Анна",
+            "rating": 5,
+            "comment": "Очень удобная жилетка, идеально подходит для осени.",
+            "date": "2025-01-01"
+          },
+          {
+            "username": "Марина",
+            "rating": 4,
+            "comment": "Жилетка хорошая, но немного велика.",
+            "date": "2025-01-03"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Пальто шерстяное",
+        "description": "Шерстяное пальто для осенне-зимнего сезона.",
+        "price": 6999,
+        "gender": "Женский",
+        "material": "Шерсть",
+        "category": "Куртки",
+        "img": "https://img.freepik.com/premium-photo/woman-winter-coat-with-fur-collar-outdoors_215842-2383.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "София",
+            "rating": 5,
+            "comment": "Пальто очень теплое и стильное.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Юлия",
+            "rating": 4,
+            "comment": "Пальто шикарное, но слегка жесткое по материалу.",
+            "date": "2025-01-05"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Туфли на плоской подошве",
+        "description": "Удобные туфли на плоской подошве для ежедневного использования.",
+        "price": 1499,
+        "gender": "Женский",
+        "material": "Кожа",
+        "category": "Обувь",
+        "img": "https://img.freepik.com/free-photo/bride-s-wedding-shoes-stand-sofa_8353-9653.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Ирина",
+            "rating": 5,
+            "comment": "Очень удобные туфли, идеально подходят для работы.",
+            "date": "2025-01-04"
+          },
+          {
+            "username": "Татьяна",
+            "rating": 4,
+            "comment": "Туфли хорошие, но немного маломерят.",
+            "date": "2025-01-07"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Шарф зимний",
+        "description": "Теплый зимний шарф для холодной погоды.",
+        "price": 799,
+        "gender": "Женский",
+        "material": "Шерсть",
+        "category": "Аксессуары",
+        "img": "https://img.freepik.com/free-photo/scarf_1101-502.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Виктория",
+            "rating": 5,
+            "comment": "Шарф очень теплый и уютный.",
+            "date": "2025-01-01"
+          },
+          {
+            "username": "Ирина",
+            "rating": 4,
+            "comment": "Хороший шарф, но немного жестковат.",
+            "date": "2025-01-03"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Шорты спортивные",
+        "description": "Удобные спортивные шорты для тренировки.",
+        "price": 799,
+        "gender": "Мужской",
+        "material": "Полиэстер",
+        "category": "Низ",
+        "img": "https://img.freepik.com/premium-vector/trouser-pant-design-template-technical-fashion-illustration-trouser-sweatpants-mockup_665745-104.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Дмитрий",
+            "rating": 5,
+            "comment": "Очень удобные шорты, идеально подходят для тренировки.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Виталий",
+            "rating": 4,
+            "comment": "Шорты хорошие, но материал не очень дышащий.",
+            "date": "2025-01-04"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Жилет зимний",
+        "description": "Зимний жилет для активных прогулок и спорта.",
+        "price": 1999,
+        "gender": "Мужской",
+        "material": "Нейлон, синтепон",
+        "category": "Куртки",
+        "img": "https://img.freepik.com/free-photo/medium-shot-man-training-outdoors_23-2148861910.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Александр",
+            "rating": 5,
+            "comment": "Очень теплый и комфортный жилет.",
+            "date": "2025-01-03"
+          },
+          {
+            "username": "Максим",
+            "rating": 4,
+            "comment": "Жилет хорош, но немного маломерит.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Рубашка в клетку",
+        "description": "Уютная рубашка в клетку для повседневного ношения.",
+        "price": 1599,
+        "gender": "Мужской",
+        "material": "Хлопок",
+        "category": "Верх",
+        "img": "https://img.freepik.com/free-photo/portrait-young-handsome-guy_144627-110.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Сергей",
+            "rating": 5,
+            "comment": "Очень комфортная рубашка для повседневной носки.",
+            "date": "2025-01-05"
+          },
+          {
+            "username": "Алексей",
+            "rating": 4,
+            "comment": "Рубашка хорошая, но немного узковата в плечах.",
+            "date": "2025-01-07"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Ботинки летние",
+        "description": "Летние ботинки для прогулок в теплую погоду.",
+        "price": 1999,
+        "gender": "Мужской",
+        "material": "Ткань, резина",
+        "category": "Обувь",
+        "img": "https://img.freepik.com/free-psd/elegant-black-leather-oxfords-pair-polished-classic-mens-shoes_191095-86408.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Павел",
+            "rating": 5,
+            "comment": "Очень удобные ботинки, идеально подходят для лета.",
+            "date": "2025-01-04"
+          },
+          {
+            "username": "Роман",
+            "rating": 4,
+            "comment": "Ботинки хороши, но резина на подошве немного жесткая.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Свитшот с капюшоном",
+        "description": "Уютный свитшот с капюшоном для прохладных дней.",
+        "price": 1499,
+        "gender": "Женский",
+        "material": "Хлопок",
+        "category": "Верх",
+        "img": "https://img.freepik.com/free-photo/young-lady-holding-hand-head-while-keeping-hand-waist-oversized-hoodie-pants-looking-cool-front-view_176474-58512.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Марина",
+            "rating": 5,
+            "comment": "Очень теплый и комфортный свитшот.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Алена",
+            "rating": 4,
+            "comment": "Свитшот классный, но немного маломерит.",
+            "date": "2025-01-05"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Джинсы прямые",
+        "description": "Прямые джинсы для удобства в повседневной носке.",
+        "price": 2499,
+        "gender": "Мужской",
+        "material": "Деним",
+        "category": "Низ",
+        "img": "https://img.freepik.com/free-photo/jeans_1203-8092.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Станислав",
+            "rating": 5,
+            "comment": "Очень удобные и стильные джинсы.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Анатолий",
+            "rating": 4,
+            "comment": "Джинсы хорошие, но немного узковаты.",
+            "date": "2025-01-05"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Футболка с надписью",
+        "description": "Модная футболка с яркой надписью для ежедневного ношения.",
+        "price": 799,
+        "gender": "Женский",
+        "material": "Хлопок",
+        "category": "Верх",
+        "trend" : true,
+        "img": "https://img.freepik.com/premium-vector/black-customized-t-shirt-design-black-tshirt-mockup_1172241-12748.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Елена",
+            "rating": 5,
+            "comment": "Очень стильная футболка, отлично сидит.",
+            "date": "2025-01-03"
+          },
+          {
+            "username": "Ирина",
+            "rating": 4,
+            "comment": "Футболка хорошая, но по размеру немного велика.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Туфли кожаные",
+        "description": "Кожаные туфли для официальных мероприятий.",
+        "price": 2999,
+        "gender": "Женский",
+        "material": "Кожа",
+        "category": "Обувь",
+        "img": "https://img.freepik.com/premium-photo/women-shoes-accessories_93675-2953.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Ольга",
+            "rating": 5,
+            "comment": "Очень элегантные и удобные туфли.",
+            "date": "2025-01-04"
+          },
+          {
+            "username": "Анастасия",
+            "rating": 4,
+            "comment": "Туфли стильные, но немного маломерят.",
+            "date": "2025-01-07"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Кардиган длинный",
+        "description": "Длинный кардиган для создания стильных образов.",
+        "price": 1799,
+        "gender": "Женский",
+        "material": "Шерсть",
+        "category": "Верх",
+        "img": "https://img.freepik.com/free-photo/fashion-girl-standing-autmncity_1157-25332.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Ксения",
+            "rating": 5,
+            "comment": "Очень стильный и уютный кардиган.",
+            "date": "2025-01-05"
+          },
+          {
+            "username": "Марина",
+            "rating": 4,
+            "comment": "Кардиган красивый, но немного большой.",
+            "date": "2025-01-07"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Кофта с воротником",
+        "description": "Кофта с высоким воротником для прохладных дней.",
+        "price": 1499,
+        "gender": "Мужской",
+        "material": "Хлопок",
+        "category": "Верх",
+        "img": "https://img.freepik.com/premium-photo/gray-shirt-with-white-collar-white-collar-is-shown_874909-15918.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Дмитрий",
+            "rating": 5,
+            "comment": "Очень удобная кофта, отлично сидит.",
+            "date": "2025-01-06"
+          },
+          {
+            "username": "Максим",
+            "rating": 4,
+            "comment": "Кофта хорошая, но воротник немного тесноват.",
+            "date": "2025-01-07"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Майка спортивная",
+        "description": "Майка для активных тренировок и спортивных мероприятий.",
+        "price": 799,
+        "gender": "Мужской",
+        "material": "Полиэстер",
+        "category": "Верх",
+        "img": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1327.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Игорь",
+            "rating": 5,
+            "comment": "Очень удобная майка для тренировки.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Виталий",
+            "rating": 4,
+            "comment": "Майка хорошая, но материал немного жестковат.",
+            "date": "2025-01-05"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Жакет с поясом",
+        "description": "Жакет с поясом для официальных мероприятий и работы.",
+        "price": 3599,
+        "gender": "Женский",
+        "material": "Ткань",
+        "category": "Верх",
+        "img": "https://img.freepik.com/free-photo/beautiful-woman-portrait-garden_1328-1842.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Наталья",
+            "rating": 5,
+            "comment": "Очень элегантный жакет, хорошо сидит.",
+            "date": "2025-01-01"
+          },
+          {
+            "username": "Екатерина",
+            "rating": 4,
+            "comment": "Жакет стильный, но немного широкий в талии.",
+            "date": "2025-01-03"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Брюки строгие",
+        "description": "Элегантные строгие брюки для работы и деловых встреч.",
+        "price": 2499,
+        "gender": "Мужской",
+        "material": "Шерсть",
+        "category": "Низ",
+        "img": "https://img.freepik.com/free-photo/comfortable-jogger-pants-gray-studio-apparel_53876-102269.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Владимир",
+            "rating": 5,
+            "comment": "Отличные брюки, идеально подходят для офисных встреч.",
+            "date": "2025-01-04"
+          },
+          {
+            "username": "Иван",
+            "rating": 4,
+            "comment": "Брюки хорошие, но немного узковаты в бедрах.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Кожаные перчатки",
+        "description": "Стильные кожаные перчатки для холодной погоды.",
+        "price": 1299,
+        "gender": "Женский",
+        "material": "Кожа",
+        "category": "Аксессуары",
+        "img": "https://img.freepik.com/free-photo/portrait-young-blonde-woman-black-gloves-hat_114579-80079.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Алина",
+            "rating": 5,
+            "comment": "Очень теплые и элегантные перчатки.",
+            "date": "2025-01-03"
+          },
+          {
+            "username": "Дарина",
+            "rating": 4,
+            "comment": "Перчатки хорошие, но немного тесные.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Женская сумка",
+        "description": "Стильная женская сумка для повседневного использования.",
+        "price": 3299,
+        "gender": "Женский",
+        "material": "Кожа",
+        "category": "Аксессуары",
+        "img": "https://img.freepik.com/free-photo/still-life-hanging-bag_23-2151009049.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Мария",
+            "rating": 5,
+            "comment": "Сумка очень удобная и вместительная.",
+            "date": "2025-01-04"
+          },
+          {
+            "username": "Ирина",
+            "rating": 4,
+            "comment": "Сумка хорошая, но немного тяжеловата.",
+            "date": "2025-01-06"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Кепка с логотипом",
+        "description": "Модная кепка с логотипом для стильных образов.",
+        "price": 799,
+        "gender": "Мужской",
+        "material": "Хлопок",
+        "trend" : true,
+        "category": "Аксессуары",
+        "img" : "https://img.freepik.com/free-photo/red-baseball-cap-belt-wooden-table-with-black-background_384344-5156.jpg?ga=GA1.1.1682047577.1686840777&semt=ais_incoming",
+        "reviews": [
+          {
+            "username": "Дмитрий",
+            "rating": 5,
+            "comment": "Отличная кепка, стильная и удобная.",
+            "date": "2025-01-02"
+          },
+          {
+            "username": "Игорь",
+            "rating": 4,
+            "comment": "Кепка хорошая, но немного большая по размеру.",
+            "date": "2025-01-05"
+          }
+        ]
+      }  
+]
+  
